@@ -15,7 +15,7 @@ This project demonstrates a mixed-architecture homelab using:
 
 ## Architecture
 
-![image0](https://github.com/user-attachments/assets/da4ba8cc-08d5-4f78-be32-fa89e6f4bfd3)
+![image0](https://github.com/user-attachments/assets/88c346f5-82c1-4173-8455-a1191fc1a31c)
 
 
 ## Goals
